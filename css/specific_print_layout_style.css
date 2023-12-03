@@ -1,0 +1,61 @@
+/* status color */
+.paid {
+    color: green;
+    font-weight: bold;
+    }
+
+    .not-paid {
+    color: red;
+    font-weight: bold;
+    }  
+
+    .paid_s{
+    color: blue;
+    font-weight: bold;
+    }  
+    /* table */
+    .t {
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    }
+    .header {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    }
+    .list{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    }
+    td img {
+    width: 100px;
+    }
+
+    td h4 {
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    }
+
+    td p {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    }
+    p + h4 {
+    margin-top: 0;
+    }
+
+    .list_header{
+        text-align: center;
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    .data{
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
